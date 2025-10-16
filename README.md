@@ -8,3 +8,16 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=yonkis1995_frontend-project-44&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=yonkis1995_frontend-project-44)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=yonkis1995_frontend-project-44&metric=coverage)](https://sonarcloud.io/summary/new_code?id=yonkis1995_frontend-project-44)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=yonkis1995_frontend-project-44&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=yonkis1995_frontend-project-44)
+
+### Install
+
+```
+git clone git@github.com:yonkis1995/frontend-project-44.git
+make install
+```
+
+### Demo launch
+
+#### brain-even
+
+[![asciicast](https://asciinema.org/a/awYQ3lWfWkf59E6MIbUfiYH0B.svg)](https://asciinema.org/a/awYQ3lWfWkf59E6MIbUfiYH0B)
