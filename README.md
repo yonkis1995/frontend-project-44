@@ -13,8 +13,12 @@
 
 ```
 git clone git@github.com:yonkis1995/frontend-project-44.git
+cd frontend-project-44
 make install
+npm link
 ```
+
+[![asciicast](https://asciinema.org/a/9LdLIhALVuhZ07fjP3GnryQ2d.svg)](https://asciinema.org/a/9LdLIhALVuhZ07fjP3GnryQ2d)
 
 ### Demo launch
 
