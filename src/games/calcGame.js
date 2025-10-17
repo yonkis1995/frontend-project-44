@@ -12,24 +12,24 @@ const generateData = () => {
 
   const operator = getRandomOperator(['+', '-', '*'])
 
-  let question;
-  let answer;
+  let question
+  let answer
 
   switch (operator) {
     case '+':
-        question = `${randomNum1} + ${randomNum2}`
-        answer = randomNum1 + randomNum2
-        break
+      question = `${randomNum1} + ${randomNum2}`
+      answer = randomNum1 + randomNum2
+      break
     case '-':
-        question = `${randomNum1} - ${randomNum2}`
-        answer = randomNum1 - randomNum2
-        break
+      question = `${randomNum1} - ${randomNum2}`
+      answer = randomNum1 - randomNum2
+      break
     case '*':
-        question = `${randomNum1} * ${randomNum3}`
-        answer = randomNum1 * randomNum3
-        break
+      question = `${randomNum1} * ${randomNum3}`
+      answer = randomNum1 * randomNum3
+      break
     default:
-        throw new Error(`Invalid operator ${operator}`)
+      throw new Error(`Invalid operator ${operator}`)
   }
 
   generatedData['question'] = question
