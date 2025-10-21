@@ -33,3 +33,7 @@ npm link
 #### brain-gcd
 
 [![asciicast](https://asciinema.org/a/RKzQ9De62JpVyGuw9y0Nhnzpg.svg)](https://asciinema.org/a/RKzQ9De62JpVyGuw9y0Nhnzpg)
+
+#### brain-progression
+
+[![asciicast](https://asciinema.org/a/IFMASpn6dfhki4uLawACcpRXo.svg)](https://asciinema.org/a/IFMASpn6dfhki4uLawACcpRXo)
