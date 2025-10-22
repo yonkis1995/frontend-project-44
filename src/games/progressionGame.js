@@ -1,6 +1,6 @@
-const gameDescription = 'What number is missing in the progression?'
+import getRandomNum from "../utils/getRandomNumber.js"
 
-const getRandomNum = maxNum => Math.floor(Math.random() * maxNum)
+const gameDescription = 'What number is missing in the progression?'
 
 const createProgression = (firstElement, step, progressionLength) => {
   const progression = []

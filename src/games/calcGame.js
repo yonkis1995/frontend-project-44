@@ -1,6 +1,7 @@
+import getRandomNum from "../utils/getRandomNumber.js"
+
 const gameDescription = 'What is the result of the expression?'
 
-const getRandomNum = maxNum => Math.floor(Math.random() * maxNum)
 const getRandomOperator = operators => operators[getRandomNum(operators.length)]
 
 const generateData = () => {
