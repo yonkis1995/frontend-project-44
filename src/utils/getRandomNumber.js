@@ -1,2 +1,2 @@
 const getRandomNum = maxNum => Math.floor(Math.random() * maxNum)
-export default getRandomNum;
+export default getRandomNum

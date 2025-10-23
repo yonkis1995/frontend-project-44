@@ -1,4 +1,4 @@
-import getRandomNum from "../utils/getRandomNumber.js"
+import getRandomNum from '../utils/getRandomNumber.js'
 
 const gameDescription = 'What is the result of the expression?'
 
